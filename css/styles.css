@@ -1,5 +1,7 @@
-  body {
+ body {
     background-color: #EAF6F6;
+    width: auto;
+    height: auto;
   }
 
   h1 {
